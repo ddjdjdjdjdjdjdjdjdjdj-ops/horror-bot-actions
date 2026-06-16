@@ -1,5 +1,4 @@
 edge-tts
 pydub
-moviepy
 asyncio
 requests
